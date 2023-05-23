@@ -1,4 +1,4 @@
-# Hoosat Oy - Empowering Your Business with Cutting-Edge Software Solutions
+# Hoosat Oy - Empowering Your Business with Software Solutions
 
 Welcome to Hoosat Oy's GitHub repository! We are a dedicated team of software experts who are passionate about delivering cutting-edge solutions tailored solutions tailored specifically to meet your business needs. We specialize in developing custom software and online services that empower organizations to thrive in the digital age.
 
